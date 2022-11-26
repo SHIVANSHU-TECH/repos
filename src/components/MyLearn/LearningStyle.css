@@ -1,0 +1,37 @@
+.card {
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  
+  
+  .card  {
+      block-size: auto;
+    border: none;
+    outline: 0;
+    border-radius:10px;
+   text-align: center;
+    cursor: pointer;
+    width: 100%;
+    
+  }
+  p{
+  text-align:center;
+  }
+  button{
+      letter-spacing: 0.5px;
+      font-size: 1rem;
+      margin: 1.5rem;
+      padding: 10px ;
+      border-radius: 8px;
+      color: #fff;
+      cursor: pointer;
+      background: linear-gradient(to right, #15c494,#15c494);
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
