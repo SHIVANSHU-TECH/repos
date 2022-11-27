@@ -1,5 +1,9 @@
 import react from "react";
 import "./MainBody.css";
+import one from "./images/one.jpg";
+import two from "./images/two.jpg";
+import three from "./images/three.jpg";
+import four from "./images/four.jpg";
 const MainBody = () => {
   return (
     <div>
@@ -27,28 +31,28 @@ const MainBody = () => {
       </div>
       <div className="row">
         <div className="column">
-          <img src="images/download (1).jpg" />
-          <img src="images/download (2).jpg" />
-          <img src="images/download (3).jpg" />
-          <img src="images/download (4).jpg" />
+          <img src="images/one.jpg" />
+          <img src="images/two.jpg" />
+          <img src="images/three.jpg" />
+          <img src="images/four.jpg" />
         </div>
         <div className="column">
-          <img src="images/download (1).jpg" />
-          <img src="images/download (2).jpg" />
-          <img src="images/download (3).jpg" />
-          <img src="images/download (4).jpg" />
+          <img src="images/one.jpg" />
+          <img src="images/two.jpg" />
+          <img src="images/three.jpg" />
+          <img src="images/four.jpg" />
         </div>
-        <div className="column">
-          <img src="images/download (1).jpg" />
-          <img src="images/download (2).jpg" />
-          <img src="images/download (3).jpg" />
-          <img src="images/download (4).jpg" />
+<div className="column">
+          <img src="images/one.jpg" />
+          <img src="images/two.jpg" />
+          <img src="images/three.jpg" />
+          <img src="images/four.jpg" />
         </div>
-        <div className="column">
-          <img src="images/download (1).jpg" />
-          <img src="images/download (2).jpg" />
-          <img src="images/download (3).jpg" />
-          <img src="images/download (4).jpg" />
+<div className="column">
+          <img src="images/one.jpg" />
+          <img src="images/two.jpg" />
+          <img src="images/three.jpg" />
+          <img src="images/four.jpg" />
         </div>
       </div>
     </div>
